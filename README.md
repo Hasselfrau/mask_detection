@@ -1,2 +1,2 @@
 # mask_detection
-Ьasked face model
+A real time webcam mask detector
